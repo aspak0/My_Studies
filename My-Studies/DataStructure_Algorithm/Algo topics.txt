@@ -1,0 +1,66 @@
+Basics
+Stack: Array Implementation
+Stack: Linked List Implementation
+Queues: Array Implementation
+Queues: Linked List Implementation
+Lists: Array Implementation (available in java version)
+Lists: Linked List Implementation (available in java version)
+Recursion
+Factorial
+Reversing a String
+N-Queens Problem
+Indexing
+Binary and Linear Search (of sorted list)
+Binary Search Trees
+AVL Trees (Balanced binary search trees)
+Red-Black Trees
+Splay Trees
+Open Hash Tables (Closed Addressing)
+Closed Hash Tables (Open Addressing)
+Closed Hash Tables, using buckets
+Trie (Prefix Tree, 26-ary Tree)
+Radix Tree (Compact Trie)
+Ternary Search Tree (Trie with BST of children)
+B Trees
+B+ Trees
+Sorting
+Comparison Sorting
+Bubble Sort
+Selection Sort
+Insertion Sort
+Shell Sort
+Merge Sort
+Quck Sort
+Bucket Sort
+Counting Sort
+Radix Sort
+Heap Sort
+Heap-like Data Structures
+Heaps
+Binomial Queues
+Fibonacci Heaps
+Leftist Heaps
+Skew Heaps
+Graph Algorithms
+Breadth-First Search
+Depth-First Search
+Connected Components
+Dijkstra's Shortest Path
+Prim's Minimum Cost Spanning Tree
+Topological Sort (Using Indegree array)
+Topological Sort (Using DFS)
+Floyd-Warshall (all pairs shortest paths)
+Kruskal Minimum Cost Spanning Tree Algorithm
+Dynamic Programming
+Calculating nth Fibonacci number
+Making Change
+Longest Common Subsequence
+Geometric Algorithms
+2D Rotation and Scale Matrices
+2D Rotation and Translation Matrices
+2D Changing Coordinate Systems
+3D Rotation and Scale Matrices
+3D Changing Coordinate Systems
+Others ...
+Disjoint Sets
+Huffman Coding (available in java version)
